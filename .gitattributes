@@ -1,2 +1,0 @@
-*.CATPart filter=lfs diff=lfs merge=lfs -text
-*.CATProduct filter=lfs diff=lfs merge=lfs -text
